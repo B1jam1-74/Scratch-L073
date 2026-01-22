@@ -1,0 +1,7 @@
+/home/benjaminavocat-maulaz/Programs_CubeIDE/L073/scratch/Drivers/CMSIS/Include/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+/home/benjaminavocat-maulaz/Programs_CubeIDE/L073/scratch/Drivers/CMSIS/Include/core_cm0plus.h:850:22:__NVIC_SetPriority	24	static
+/home/benjaminavocat-maulaz/Programs_CubeIDE/L073/scratch/Drivers/CMSIS/Include/core_cm0plus.h:1056:26:SysTick_Config	16	static
+../Src/timer.c:8:6:SYSTICK_Init	8	static
+../Src/timer.c:12:6:SYSTICK_Delay	24	static
+../Src/timer.c:20:10:SYSTICK_Get	8	static
+../Src/timer.c:25:6:TIM2_init	8	static
